@@ -177,7 +177,7 @@ Currently only the PageEmbed component inherits the locale from the i18n module.
 
 [MIT License](./LICENSE)
 
-Copyright (c) David De Coninck <david@maneuver.be>
+Copyright (c) Lorenzo Rottigni <lorenzo@rottigni.net>
 
 <!-- Badges -->
 [npm-version-src]: https://img.shields.io/npm/v/iubenda-module/latest.svg

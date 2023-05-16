@@ -1,12 +1,15 @@
 {
-  "name": "iubenda-module",
-  "version": "0.1.2",
+  "name": "nuxt-iubenda",
+  "version": "0.1.3",
   "description": "Easily integrate Iubenda with Nuxt.js",
   "repository": "https://github.com/maneuver-agency/iubenda-nuxt-module",
   "license": "MIT",
   "contributors": [
     {
       "name": "David De Coninck <david@maneuver.be>"
+    },
+    {
+      "name": "Lorenzo Rottigni <lorenzo@rottigni.net>"
     }
   ],
   "files": [
